@@ -42,8 +42,8 @@ p{
   display: block;
 }
 
-div{
-  align-items: 
+div {
+    float: left;
 }
 
 
